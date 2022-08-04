@@ -1,4 +1,4 @@
-Игрушечная задача с фриланса
+Игрушечная задачка с Хабр.Фриланс на оценку энергоэффективности зданий Нью-Йорка.
 
 # NYC_EnergyEfficiency
 1. Данные об энергоэффективности зданий Нью-Йорка https://www1.nyc.gov/html/gbee/html/plan/ll84_scores.shtml (2018 Energy and Water Data Disclosure (Data for Calendar Year 2017, файл spreadsheet)
